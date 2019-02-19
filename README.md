@@ -12,6 +12,7 @@ Script / Commands to install basic dev tools
 
 - Yarn
 
+- ohmyzsh
 
 
 ## Project Specific Tools
