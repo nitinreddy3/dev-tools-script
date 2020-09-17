@@ -4,24 +4,24 @@ Script / Commands to install basic dev tools
 
 ## Dev Tools
 
-- Git
+- [Git](https://git-scm.com/)
 
-- Curl
+- [Curl](https://curl.haxx.se/)
 
-- NodeJS
+- [NodeJS](https://nodejs.org)
 
-- Yarn
+- [Yarn](https://yarnpkg.com/)
 
-- ohmyzsh
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
-- Terminator
+- [Terminatort](https://gnometerminator.blogspot.com/p/introduction.html)
 
 
 ## Softwares
 
-- Python
+- [Python](https://www.python.org/)
 
-- Docker
+- [Docker](https://www.docker.com/)
 
 
 ```
